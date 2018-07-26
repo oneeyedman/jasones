@@ -1,0 +1,21 @@
+{
+  "version": "v0.0.1",
+  "titles":[
+    {
+      "type": 1,
+      "label": "Lorem ipsum dolor"
+    },
+    {
+      "type": 2,
+      "label": "Sit amet, consectetur"
+    },
+    {
+      "type": 3,
+      "label": "Adipiscing elit"
+    },
+    {
+      "type": 2,
+      "label": "Pellentesque aliquam"
+    }
+  ]
+}

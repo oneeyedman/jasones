@@ -1,0 +1,17 @@
+{
+  "ver": "v0.0.1",
+  "data":[
+    {
+      "color": "red"
+    },
+    {
+      "color": "blue"
+    },
+    {
+      "color": "white"
+    },
+    {
+      "color": "lime"
+    }
+  ]
+}
